@@ -19,3 +19,5 @@ branch na change madbeku andre -> git checkout branchname
 
 amele hosa branch ge push madbeku andre -> git add , git commit -m "message" , git push -u origin branchname 
 
+You are changing this
+
