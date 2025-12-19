@@ -1,0 +1,14 @@
+Git -> local machine alli repo madodu
+Github -> remote machine alli repo madirodu
+firstu neenu local repo create madbeku
+adakke git init 
+second yella files nu local repo ge push madbeku
+third push madiro files nella save madbeku
+fourth neenu yaav remote repository ge hakthidiya
+adunna helbeku yenge andre git remote add origin nin url 
+fifth neenu yaav branch ge push madbeku adunna helbeku 
+git push -u origin master/ main 
+ashte 
+
+so next time yenadru changes madbeku andre 
+neenu bari git add, git commit , git push ashte madbekirodu
