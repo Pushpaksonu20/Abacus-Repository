@@ -12,3 +12,10 @@ ashte
 
 so next time yenadru changes madbeku andre 
 neenu bari git add, git commit , git push ashte madbekirodu
+
+neenu nin system alli yella brach anna nodbeku andre -> git branch 
+hosa branch madbeku andre -> git branch branchname
+branch na change madbeku andre -> git checkout branchname 
+
+amele hosa branch ge push madbeku andre -> git add , git commit -m "message" , git push -u origin branchname 
+
