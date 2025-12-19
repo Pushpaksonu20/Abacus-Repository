@@ -13,11 +13,9 @@ ashte
 so next time yenadru changes madbeku andre 
 neenu bari git add, git commit , git push ashte madbekirodu
 
-<<<<<<< HEAD
 git fetch --downloads the changes that are made in the github
 
 git merge origin/branch --- add the content that changed in github to local system
-=======
 neenu nin system alli yella brach anna nodbeku andre -> git branch 
 hosa branch madbeku andre -> git branch branchname
 branch na change madbeku andre -> git checkout branchname 
@@ -26,4 +24,3 @@ amele hosa branch ge push madbeku andre -> git add , git commit -m "message" , g
 
 You are changing this
 
->>>>>>> origin/master
