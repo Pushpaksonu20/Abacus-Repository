@@ -8,3 +8,7 @@ class Student(models.Model):
 class Student2(models.Model):
     name=models.CharField(max_length=20)
     age = models.IntegerField()
+
+class Student21(models.Model):
+    name=models.CharField(max_length=20)
+    age = models.IntegerField()
