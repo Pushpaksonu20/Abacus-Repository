@@ -12,3 +12,7 @@ ashte
 
 so next time yenadru changes madbeku andre 
 neenu bari git add, git commit , git push ashte madbekirodu
+
+git fetch --downloads the changes that are made in the github
+
+git merge origin/branch --- add the content that changed in github to local system
